@@ -1,5 +1,10 @@
 ## Hi there 👋
-      I am Sam Ervin a software engineer, manager, and project manager. I have been responsible for leadership and technical expertise in software engineering with a few different companies using many different systems architectures, hardware platforms, operating systems, frameworks, and programming languages throughout my career journey. I like all things .NET, tech gadgets, robotics, woodworking, sailing, boats and programming languages.
+
+- I am Sam Ervin a software engineer, manager, and project manager. I have been responsible for leadership and technical expertise
+in software engineering with a few different companies using many different systems architectures, hardware platforms,
+operating systems, frameworks, and programming languages throughout my career journey. I like all things .NET, tech gadgets,
+robotics, woodworking, sailing, boats and programming languages.
+
 - 🔭 I’m currently working on a few Next.js personal and professional things. One is my personal site, testing out a blog site I found and the other is development on an Openstack Cloud Client UI called Sunrise. 
 - 🌱 I’m currently learning more on Next.js
 - 💬 Ask me about .NET and Java or the secret to a happy dog. 
